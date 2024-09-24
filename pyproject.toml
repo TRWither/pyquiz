@@ -1,6 +1,6 @@
-[metadata]
-name = pyquiz
-version = 0.1.0
-description = Python library to facilitate the quizzs creation
-author = TheWither
-url = https://github.com/TRWither/pyquiz
+[project]
+name = "pyquiz"
+version = "0.1"
+description = "A Python library to facilitate the quizzs creation"
+authors = [{ name="TheWither"}]
+homepage = "https://github.com/TRWither/pyquiz"
