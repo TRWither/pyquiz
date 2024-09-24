@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+quiz/__init__.py
+quiz/ask.py
+quiz/choose.py
+quiz/guessnum.py
+quiz/randchoose.py
+quiz/randswer.py
+quiz.egg-info/PKG-INFO
+quiz.egg-info/SOURCES.txt
+quiz.egg-info/dependency_links.txt
+quiz.egg-info/top_level.txt
