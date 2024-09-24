@@ -7,7 +7,7 @@ setup(
     description="A Python library to facilitate the quiz creation.",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/quiz/pyquiz",
+    url="https://github.com/TRWither/pyquiz",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
