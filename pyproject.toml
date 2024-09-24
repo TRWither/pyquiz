@@ -1,3 +1,6 @@
-[build-system]
-requires = ["setuptools>=42", "wheel"]
-build-backend = "setuptools.build_meta"
+[metadata]
+name = pyquiz
+version = 0.1.0
+description = Python library to facilitate the quizzs creation
+author = TheWither
+url = https://github.com/TRWither/pyquiz
