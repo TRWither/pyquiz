@@ -5,14 +5,11 @@
 Why use PyQuiz? Well, there are several reasons. Firstly, let's imagine that, in one of your projects, you plan to ask the user a question (an enigma, for example). Well, you'll have to make the question yourself. Well, with PyQuiz, you don't have to! All you have to do is describe your riddle, and it's ready!
 
 ## How to install?
-To install PyQuiz, simply use `pip`. The command is as follows:
+To install PyQuiz, simply use `pip`.
 ```bash
-pip install quiz-0.1.0
+cd pyquiz
+pip install .
 ```
-All you need is Python 3.6 or later, and the `random` library, which normally comes with Python.
-
-WARNING: for now, the installation with `pip` does not work, so it is recommended to follow the Python libraries installation stapes without any tool.
-Sorry.
 
 ## Some examples
 Here is a simple example to give you an idea of the functionality of the :
